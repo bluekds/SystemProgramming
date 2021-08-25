@@ -3,5 +3,5 @@
 
 int main(void)
 {
-	printf("hello system programming!\n");
+	printf("Hello linux!\n");
 }
