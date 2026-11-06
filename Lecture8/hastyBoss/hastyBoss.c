@@ -2,6 +2,7 @@
 #include <signal.h>
 #include <stdio.h>
 #include <errno.h>
+#include <string.h>
 #include <sys/types.h>
 
 #define COFFEE 0
